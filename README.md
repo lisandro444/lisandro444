@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Lisandro Rossi Software Engineer
-- 👀 I’m interested in Microsoft 365, Azure, Graph and React
-- 🌱 I’m currently focusing on Microsoft 365, Azure, Graph and Blockchain.
-- 💞️ I’m looking to collaborate on Microsoft and on the Blockchain.
-- 📫 How to reach me lisandrorossi444@gmail.com
+👋 Hi, I’m Lisandro Rossi — Software Engineer
+🚀 Passionate about building innovative solutions with Microsoft 365, Azure, Power Platform, and Microsoft Copilot.
+🔍 Currently focusing on modern Microsoft technologies to create scalable, efficient, and intelligent business applications.
+🤝 Open to collaborations involving Power Platform tools, custom connectors, and Copilot-driven experiences.
+📫 Feel free to reach out: lisandrorossi444@gmail.com
 
 <!---
 lisandro444/lisandro444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
